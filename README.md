@@ -24,6 +24,7 @@ Quartus Setup
 - Use Programmer to program to the DE10
 
 NIOS II Setup
+- Open NIOS II Software Build Tools for Eclipse
 - Create a new directory for your project
 - File -> New -> Application and BSP
 - Import provided .sopcinfo file
