@@ -1,4 +1,4 @@
-# DE10_Kong
+# Donkey Kong for the DE10
 Donkey Kong styled game written in C for the Altera DE10_Lite using NIOS hardware
 Accelerometer controlled player that has to reach the top of the map while avoiding moving objects
 Implements Mario-styled movement using AABBs
